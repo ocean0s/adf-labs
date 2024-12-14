@@ -1,0 +1,3 @@
+mutation deleteHousehold {
+    deleteHouseholdByEircode(eircode: "S23EF45")
+}
